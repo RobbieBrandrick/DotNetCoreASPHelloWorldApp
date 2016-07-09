@@ -1,0 +1,7 @@
+.vscode/
+bin/
+*.user
+obj/
+*.lock*
+DotNetCoreHelloWorld.xproj
+.vs/
